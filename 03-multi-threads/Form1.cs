@@ -35,6 +35,7 @@ namespace _03_multi_threads
             if (lblMessage.InvokeRequired)
             {
                 // If we are on a different thread, use Invoke to marshal the call back to the UI thread
+                //first things you learn is that you can't access UI elements outside of the UI thread
                 lblMessage.Invoke((MethodInvoker)delegate
                 {
                     lblMessage.Text = message;

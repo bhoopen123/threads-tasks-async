@@ -35,7 +35,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(150, 292);
+            button1.Location = new Point(37, 191);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(450, 292);
+            button2.Location = new Point(337, 191);
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
             button2.TabIndex = 1;
@@ -56,7 +56,7 @@
             // lblMessage
             // 
             lblMessage.AutoSize = true;
-            lblMessage.Location = new Point(289, 152);
+            lblMessage.Location = new Point(176, 51);
             lblMessage.Name = "lblMessage";
             lblMessage.Size = new Size(66, 15);
             lblMessage.TabIndex = 2;
@@ -66,7 +66,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(449, 267);
             Controls.Add(lblMessage);
             Controls.Add(button2);
             Controls.Add(button1);
