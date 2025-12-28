@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-multi-threads", "03-mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-web-server-simulator", "04-web-server-simulator\04-web-server-simulator.csproj", "{EAA56F30-EE1E-4B91-9AA3-4D609F383929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-thread-synchronization", "05-thread-synchronization\05-thread-synchronization.csproj", "{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EAA56F30-EE1E-4B91-9AA3-4D609F383929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAA56F30-EE1E-4B91-9AA3-4D609F383929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAA56F30-EE1E-4B91-9AA3-4D609F383929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
