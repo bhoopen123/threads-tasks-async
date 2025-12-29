@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-web-server-simulator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-thread-synchronization", "05-thread-synchronization\05-thread-synchronization.csproj", "{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-airplane-seat-booking", "06-airplane-seat-booking\06-airplane-seat-booking.csproj", "{279E0359-3464-4482-915C-E91804681371}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A9BCBC-46D1-4F32-B3C0-DAB7A8069D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279E0359-3464-4482-915C-E91804681371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279E0359-3464-4482-915C-E91804681371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279E0359-3464-4482-915C-E91804681371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279E0359-3464-4482-915C-E91804681371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
