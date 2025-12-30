@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-thread-synchronization",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-airplane-seat-booking", "06-airplane-seat-booking\06-airplane-seat-booking.csproj", "{279E0359-3464-4482-915C-E91804681371}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-global-mutex", "07-global-mutex\07-global-mutex.csproj", "{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{279E0359-3464-4482-915C-E91804681371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279E0359-3464-4482-915C-E91804681371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279E0359-3464-4482-915C-E91804681371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
