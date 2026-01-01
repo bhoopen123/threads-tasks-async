@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-airplane-seat-booking", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-global-mutex", "07-global-mutex\07-global-mutex.csproj", "{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-reader-writer-lock", "08-reader-writer-lock\08-reader-writer-lock.csproj", "{FEC4193B-73FC-456E-B0E8-5AC7D6999ACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C53281B-DAFD-4F4B-B2ED-FE130C7FF460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC4193B-73FC-456E-B0E8-5AC7D6999ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC4193B-73FC-456E-B0E8-5AC7D6999ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC4193B-73FC-456E-B0E8-5AC7D6999ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC4193B-73FC-456E-B0E8-5AC7D6999ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
