@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-reader-writer-lock", "08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-semaphore", "09-semaphore\09-semaphore.csproj", "{CE63534E-29C4-4373-A8D7-8A6EE1FEF39B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-autoResetEvent", "10-autoResetEvent\10-autoResetEvent.csproj", "{81553B5F-1731-47C5-A42F-1E76CF1BBB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CE63534E-29C4-4373-A8D7-8A6EE1FEF39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE63534E-29C4-4373-A8D7-8A6EE1FEF39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE63534E-29C4-4373-A8D7-8A6EE1FEF39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81553B5F-1731-47C5-A42F-1E76CF1BBB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81553B5F-1731-47C5-A42F-1E76CF1BBB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81553B5F-1731-47C5-A42F-1E76CF1BBB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81553B5F-1731-47C5-A42F-1E76CF1BBB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
