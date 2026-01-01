@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-autoResetEvent", "10-aut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-manualResetEvent", "11-manualResetEvent\11-manualResetEvent.csproj", "{5785964D-2629-431A-82F4-ACD4108A4F93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-producer-consumer", "12-producer-consumer\12-producer-consumer.csproj", "{A6229D10-DEEC-4316-9E52-8A12855B3A3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{5785964D-2629-431A-82F4-ACD4108A4F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5785964D-2629-431A-82F4-ACD4108A4F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5785964D-2629-431A-82F4-ACD4108A4F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6229D10-DEEC-4316-9E52-8A12855B3A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6229D10-DEEC-4316-9E52-8A12855B3A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6229D10-DEEC-4316-9E52-8A12855B3A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6229D10-DEEC-4316-9E52-8A12855B3A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
