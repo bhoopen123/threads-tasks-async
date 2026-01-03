@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-deadlock-example", "13-d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-thread-states", "14-thread-states\14-thread-states.csproj", "{8FAA0F15-CAC4-4DAE-874C-ACC1698D3882}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-threadPool-example", "15-threadPool-example\15-threadPool-example.csproj", "{FBE63BC8-AE1B-4525-9FAE-7270ED3DD0C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8FAA0F15-CAC4-4DAE-874C-ACC1698D3882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FAA0F15-CAC4-4DAE-874C-ACC1698D3882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FAA0F15-CAC4-4DAE-874C-ACC1698D3882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE63BC8-AE1B-4525-9FAE-7270ED3DD0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE63BC8-AE1B-4525-9FAE-7270ED3DD0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE63BC8-AE1B-4525-9FAE-7270ED3DD0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE63BC8-AE1B-4525-9FAE-7270ED3DD0C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
