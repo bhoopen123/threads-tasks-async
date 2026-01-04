@@ -54,6 +54,11 @@ foreach (var computedTask in computeTasks)
     sum += computedTask.Result;
     // task.Result will block the current thread until gets the result
 }
+
+//// another way of doing Summation
+//sum = 0;
+//sum = computeTasks.Sum(t => t.Result); // this is alo a blocking statement because we are using Result
+
 stopwatch.Stop();
 
 Console.WriteLine($"Sum using multi Tasks = {sum}, time taken = {stopwatch.ElapsedMilliseconds}");
