@@ -35,9 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-threadPool-example", "15
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-return-result-from-task", "01-return-result-from-task\01-return-result-from-task.csproj", "{4863B6B7-D5BD-4014-BBBA-118458825778}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-return-result-from-task", "30-return-result-from-task\30-return-result-from-task.csproj", "{4863B6B7-D5BD-4014-BBBA-118458825778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-task-continueWith", "02-task-continueWith\02-task-continueWith.csproj", "{34DD5BCC-09F8-4331-921D-F656CE9FD782}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-task-continueWith", "31-task-continueWith\31-task-continueWith.csproj", "{34DD5BCC-09F8-4331-921D-F656CE9FD782}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

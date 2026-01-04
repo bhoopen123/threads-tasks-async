@@ -52,6 +52,7 @@ sum = 0;
 foreach (var computedTask in computeTasks)
 {
     sum += computedTask.Result;
+    // task.Result will block the current thread until gets the result
 }
 stopwatch.Stop();
 
