@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40-async-await-basics", "40
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41-thread-synchronization", "41-thread-synchronization\41-thread-synchronization.csproj", "{3FDAB05A-CAED-4814-8162-37AC563D8E7A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "50-ParallelLibrary", "50-ParallelLibrary", "{A66870E6-689E-46FB-87E9-1538D56CF17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51-parallel-library-basics", "51-parallelLibrary-basics\51-parallel-library-basics.csproj", "{B2A523BE-0088-4014-85F0-367F5496EA19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +149,10 @@ Global
 		{3FDAB05A-CAED-4814-8162-37AC563D8E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FDAB05A-CAED-4814-8162-37AC563D8E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FDAB05A-CAED-4814-8162-37AC563D8E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A523BE-0088-4014-85F0-367F5496EA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A523BE-0088-4014-85F0-367F5496EA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A523BE-0088-4014-85F0-367F5496EA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A523BE-0088-4014-85F0-367F5496EA19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +165,7 @@ Global
 		{C330C46D-0179-42C1-90DC-1B26F18613F9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{1CF26CF3-95C1-4D77-91C1-0ED86DF937AA} = {69FBAD54-A90D-4F08-834C-B6F58A8E10C3}
 		{3FDAB05A-CAED-4814-8162-37AC563D8E7A} = {69FBAD54-A90D-4F08-834C-B6F58A8E10C3}
+		{B2A523BE-0088-4014-85F0-367F5496EA19} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {847FB712-3FAB-4EED-A754-03858B1C0727}
