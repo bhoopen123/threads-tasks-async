@@ -55,6 +55,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "50-ParallelLibrary", "50-Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51-parallel-library-basics", "51-parallelLibrary-basics\51-parallel-library-basics.csproj", "{B2A523BE-0088-4014-85F0-367F5496EA19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52-parallel-library-exception", "52-parallel-library-exception\52-parallel-library-exception.csproj", "{41F162EF-C8C0-440B-A3F8-465644BCD7EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{B2A523BE-0088-4014-85F0-367F5496EA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2A523BE-0088-4014-85F0-367F5496EA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2A523BE-0088-4014-85F0-367F5496EA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F162EF-C8C0-440B-A3F8-465644BCD7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F162EF-C8C0-440B-A3F8-465644BCD7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F162EF-C8C0-440B-A3F8-465644BCD7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F162EF-C8C0-440B-A3F8-465644BCD7EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +172,7 @@ Global
 		{1CF26CF3-95C1-4D77-91C1-0ED86DF937AA} = {69FBAD54-A90D-4F08-834C-B6F58A8E10C3}
 		{3FDAB05A-CAED-4814-8162-37AC563D8E7A} = {69FBAD54-A90D-4F08-834C-B6F58A8E10C3}
 		{B2A523BE-0088-4014-85F0-367F5496EA19} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
+		{41F162EF-C8C0-440B-A3F8-465644BCD7EB} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {847FB712-3FAB-4EED-A754-03858B1C0727}
