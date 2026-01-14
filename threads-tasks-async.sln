@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54-parallel-loop-result", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55-parallel-loop-cancellation", "55-parallel-loop-cancellation\55-parallel-loop-cancellation.csproj", "{518DB3C2-3BAE-410D-A2A5-EEFE1B03AE41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56-parallel-loop-local-storage", "56-parallel-loop-local-storage\56-parallel-loop-local-storage.csproj", "{0C2118E3-1543-474A-9E5B-E65ABDD9D156}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{518DB3C2-3BAE-410D-A2A5-EEFE1B03AE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{518DB3C2-3BAE-410D-A2A5-EEFE1B03AE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{518DB3C2-3BAE-410D-A2A5-EEFE1B03AE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2118E3-1543-474A-9E5B-E65ABDD9D156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2118E3-1543-474A-9E5B-E65ABDD9D156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2118E3-1543-474A-9E5B-E65ABDD9D156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2118E3-1543-474A-9E5B-E65ABDD9D156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -194,6 +200,7 @@ Global
 		{8A82D19C-3578-43A7-BB2F-94A034881F02} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 		{A5CDE31B-966D-47E8-84AA-B52C9E1F9927} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 		{518DB3C2-3BAE-410D-A2A5-EEFE1B03AE41} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
+		{0C2118E3-1543-474A-9E5B-E65ABDD9D156} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {847FB712-3FAB-4EED-A754-03858B1C0727}
