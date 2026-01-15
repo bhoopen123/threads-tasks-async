@@ -79,6 +79,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "70-ConcurrentCollection", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71-concurrent-collection-basics", "71-concurrent-collection-basics\71-concurrent-collection-basics.csproj", "{B12957EF-5D79-41BA-ABD8-1C198297854A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "72-blocking-collection", "72-blocking-collection\72-blocking-collection.csproj", "{D41DDC2D-6534-4E15-8223-F2F07951F00C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,10 @@ Global
 		{B12957EF-5D79-41BA-ABD8-1C198297854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B12957EF-5D79-41BA-ABD8-1C198297854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B12957EF-5D79-41BA-ABD8-1C198297854A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41DDC2D-6534-4E15-8223-F2F07951F00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41DDC2D-6534-4E15-8223-F2F07951F00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41DDC2D-6534-4E15-8223-F2F07951F00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41DDC2D-6534-4E15-8223-F2F07951F00C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -240,6 +246,7 @@ Global
 		{CDC44616-44F2-4DA5-BD61-68CC4DE84F2E} = {713AFCC9-3788-49F6-87C5-CA9B41BFE406}
 		{6F922626-D537-4F6B-A9A6-B2498FD12013} = {713AFCC9-3788-49F6-87C5-CA9B41BFE406}
 		{B12957EF-5D79-41BA-ABD8-1C198297854A} = {F82E6B13-2BD9-41F8-9196-F064755F2621}
+		{D41DDC2D-6534-4E15-8223-F2F07951F00C} = {F82E6B13-2BD9-41F8-9196-F064755F2621}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {847FB712-3FAB-4EED-A754-03858B1C0727}
