@@ -69,6 +69,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "60-ParallelLinq", "60-Paral
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61-parallel-linq-basics", "61-parallel-linq-basics\61-parallel-linq-basics.csproj", "{E286E8C3-5635-4149-B222-A999AC4F90AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62-parallel-linq-buffer", "62-parallel-linq-buffer\62-parallel-linq-buffer.csproj", "{D108C7F7-4C24-4D14-8378-305E4C9674B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,10 @@ Global
 		{E286E8C3-5635-4149-B222-A999AC4F90AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E286E8C3-5635-4149-B222-A999AC4F90AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E286E8C3-5635-4149-B222-A999AC4F90AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D108C7F7-4C24-4D14-8378-305E4C9674B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D108C7F7-4C24-4D14-8378-305E4C9674B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D108C7F7-4C24-4D14-8378-305E4C9674B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D108C7F7-4C24-4D14-8378-305E4C9674B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -210,6 +216,7 @@ Global
 		{518DB3C2-3BAE-410D-A2A5-EEFE1B03AE41} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 		{0C2118E3-1543-474A-9E5B-E65ABDD9D156} = {A66870E6-689E-46FB-87E9-1538D56CF17E}
 		{E286E8C3-5635-4149-B222-A999AC4F90AC} = {713AFCC9-3788-49F6-87C5-CA9B41BFE406}
+		{D108C7F7-4C24-4D14-8378-305E4C9674B2} = {713AFCC9-3788-49F6-87C5-CA9B41BFE406}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {847FB712-3FAB-4EED-A754-03858B1C0727}
